@@ -2,7 +2,7 @@
     {
         "ID": "A01",
         "NAME": "iPad A16",
-        "GRAPHIC": "abc",
+        "GRAPHIC": "iPad A16.jpg",
         "COST": "499.99",
         "MSRP": "65.00",
         "ONHAND": "25",
@@ -13,7 +13,7 @@
     {
         "ID": "L01",
         "NAME": "Idea Tab Plus",
-        "GRAPHIC": "def",
+        "GRAPHIC": "Idea Tab Plus.jpg",
         "COST": "319.99",
         "MSRP": "41.60",
         "ONHAND": "63",
@@ -24,7 +24,7 @@
     {
         "ID": "L02",
         "NAME": "Tab One",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Tab One.jpg",
         "COST": "149.99",
         "MSRP": "19.50",
         "ONHAND": "32",
@@ -35,7 +35,7 @@
     {
         "ID": "A02",
         "NAME": "iPad Air",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "iPad Air.jpg",
         "COST": "89.99",
         "MSRP": "11.70",
         "ONHAND": "12",
@@ -46,7 +46,7 @@
     {
         "ID": "L03",
         "NAME": "Idea Tab",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Idea Tab.jpg",
         "COST": "199.99",
         "MSRP": "26.00",
         "ONHAND": "12",
@@ -57,7 +57,7 @@
     {
         "ID": "S01",
         "NAME": "Galaxy Tab A11+",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Galaxy Tab A11+.jpg",
         "COST": "269.99",
         "MSRP": "35.01",
         "ONHAND": "54",
@@ -68,7 +68,7 @@
     {
         "ID": "A03",
         "NAME": "iPad 10.2",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "iPad 102.jpeg",
         "COST": "273.00",
         "MSRP": "35.49",
         "ONHAND": "31",
@@ -79,7 +79,7 @@
     {
         "ID": "S02",
         "NAME": "Galaxy Tab S11",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Galaxy Tab s11.jpg",
         "COST": "949.99",
         "MSRP": "123.50",
         "ONHAND": "72",
@@ -90,7 +90,7 @@
     {
         "ID": "A04",
         "NAME": "iPad Air M4",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "iPad Air M4.jpg",
         "COST": "799.99",
         "MSRP": "104.00",
         "ONHAND": "21",
@@ -101,7 +101,7 @@
     {
         "ID": "S03",
         "NAME": "Galaxy S10 Lite",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Galaxy S10 Lite",
         "COST": "359.99",
         "MSRP": "46.80",
         "ONHAND": "37",
@@ -112,7 +112,7 @@
     {
         "ID": "S04",
         "NAME": "Galaxy S11 Ultra",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Galaxy S11 Ultra.jpg",
         "COST": "1599.99",
         "MSRP": "208.00",
         "ONHAND": "12",
@@ -123,7 +123,7 @@
     {
         "ID": "A05",
         "NAME": "iPad Pro M5",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "iPad Pro M5.jpeg",
         "COST": "1799.99",
         "MSRP": "234.00",
         "ONHAND": "21",
@@ -134,7 +134,7 @@
     {
         "ID": "S05",
         "NAME": "Galaxy Tab A11",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Galaxy Tab A11.webp",
         "COST": "184.99",
         "MSRP": "24.05",
         "ONHAND": "42",
@@ -145,7 +145,7 @@
     {
         "ID": "L04",
         "NAME": "Yoga Tab",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Yoga Tab.jpeg",
         "COST": "599.99",
         "MSRP": "78.00",
         "ONHAND": "12",
@@ -156,7 +156,7 @@
     {
         "ID": "L05",
         "NAME": "Tab M11",
-        "GRAPHIC": "ghi",
+        "GRAPHIC": "Tab M11.jpeg",
         "COST": "209.99",
         "MSRP": "27.30",
         "ONHAND": "16",
